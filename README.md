@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **12** | 12 | 0 | 0 | `2026-11-24` |
+| **13** | 12 | 1 | 0 | `2026-11-24` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (12)
+### DSA (13)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -27,7 +27,8 @@
 | 0009 | [997. Pattern 7](./DSA/General/pattern-7) | [JAVA](./DSA/General/pattern-7/solution.java) | 🟢 Easy | `General` | `2026-11-13` |
 | 0010 | [1006. Pattern 8](./DSA/General/pattern-8) | [JAVA](./DSA/General/pattern-8/solution.java) | 🟢 Easy | `General` | `2026-11-13` |
 | 0011 | [1008. Pattern 9](./DSA/General/pattern-9) | [JAVA](./DSA/General/pattern-9/solution.java) | 🟢 Easy | `General` | `2026-11-07` |
-| 0012 | [Two Sum](./DSA/Set-1/two-sum) | [JAVA](./DSA/Set-1/two-sum/solution.java) | 🟢 Easy | `Set-1` | `2026-11-24` |
+| 0012 | [Sort an array of 0's 1's and 2's](./DSA/Set-1/sort-an-array-of-0's-1's-and-2's) | [JAVA](./DSA/Set-1/sort-an-array-of-0's-1's-and-2's/solution.java) | 🟡 Medium | `Set-1` | `2026-11-24` |
+| 0013 | [Two Sum](./DSA/Set-1/two-sum) | [JAVA](./DSA/Set-1/two-sum/solution.java) | 🟢 Easy | `Set-1` | `2026-11-24` |
 
 ---
 
